@@ -10,7 +10,7 @@ class Program
         // Stampa dei dati 
         Console.WriteLine("Nome: " + persona.GetNome());
         Console.WriteLine("Cognome: " + persona.GetCognome());
-        Console.WriteLine("Età: " + persona.GetEta());
+        Console.WriteLine("Eta: " + persona.GetEta());
         Console.WriteLine("Dettagli: " + persona.GetDettagli());
 
     }
