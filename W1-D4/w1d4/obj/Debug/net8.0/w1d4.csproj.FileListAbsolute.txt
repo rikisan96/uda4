@@ -1,0 +1,15 @@
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\bin\Debug\net8.0\w1d4.exe
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\bin\Debug\net8.0\w1d4.deps.json
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\bin\Debug\net8.0\w1d4.runtimeconfig.json
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\bin\Debug\net8.0\w1d4.dll
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\bin\Debug\net8.0\w1d4.pdb
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.AssemblyInfoInputs.cache
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.AssemblyInfo.cs
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.csproj.CoreCompileInputs.cache
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.sourcelink.json
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.dll
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\refint\w1d4.dll
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.pdb
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\w1d4.genruntimeconfig.cache
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D4\w1d4\obj\Debug\net8.0\ref\w1d4.dll

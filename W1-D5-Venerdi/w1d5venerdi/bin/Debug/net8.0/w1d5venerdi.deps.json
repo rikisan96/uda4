@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "w1d5venerdi/1.0.0": {
+        "runtime": {
+          "w1d5venerdi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w1d5venerdi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

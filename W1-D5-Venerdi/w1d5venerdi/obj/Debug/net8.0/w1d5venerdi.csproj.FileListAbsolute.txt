@@ -1,0 +1,15 @@
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\bin\Debug\net8.0\w1d5venerdi.exe
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\bin\Debug\net8.0\w1d5venerdi.deps.json
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\bin\Debug\net8.0\w1d5venerdi.runtimeconfig.json
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\bin\Debug\net8.0\w1d5venerdi.dll
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\bin\Debug\net8.0\w1d5venerdi.pdb
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.AssemblyInfoInputs.cache
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.AssemblyInfo.cs
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.csproj.CoreCompileInputs.cache
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.sourcelink.json
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.dll
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\refint\w1d5venerdi.dll
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.pdb
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\w1d5venerdi.genruntimeconfig.cache
+C:\Users\Riscaldino\Desktop\Epicode-UDA4\W1-D5-Venerdi\w1d5venerdi\obj\Debug\net8.0\ref\w1d5venerdi.dll
