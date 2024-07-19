@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\w5-progettoVenerdi.props" />
+</Project>
