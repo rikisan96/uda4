@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "DROPShepard - Accedi";
+}
+
+
+
+<div>
+    <h1 class="display-4">Accedi a DROPShepard</h1>
+        <form>
+            <div class="mb-3">
+                <div class="input-group mb-3">
+                    <span class="input-group-text" id="basic-addon1">&#x265c</span>
+                    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="input-group mb-3">
+                                <span class="input-group-text" id="basic-addon1">&#x265c</span>
+                  <input type="text" class="form-control" placeholder="Password" aria-label="Password" aria-describedby="basic-addon1">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+    <span>
+
+        <i>Non hai un account? Creane subito uno!
+                <a class="text-success" asp-action="Register">Registrati</a>!
+            </i>
+
+    </span>
+
+    <h3>Non sei un amministratore? Accedi all' <a asp-action="adminLogin">Area Riservata</a>. </h3>    
+</div>

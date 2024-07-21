@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Riscaldino\Desktop\Epicode-UDA4\w5-progettoVenerdi\w5-progettoVenerdi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Riscaldino/Desktop/Epicode-UDA4/w5-progettoVenerdi/w5-progettoVenerdi/Views/Anagrafiche/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hZ3JhZmljaGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Riscaldino/Desktop/Epicode-UDA4/w5-progettoVenerdi/w5-progettoVenerdi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

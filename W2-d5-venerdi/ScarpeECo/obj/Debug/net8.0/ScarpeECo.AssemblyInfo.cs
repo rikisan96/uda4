@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScarpeECo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517f34dc9d6e0207c82ffe1d192bb22fa2b2ebdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5b88eeff2f5d8aeb00fe2f7676ea5a1f06953e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScarpeECo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScarpeECo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

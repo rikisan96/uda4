@@ -1,0 +1,42 @@
+﻿
+@model IEnumerable<w5_progettoVenerdi.Models.Anagrafica>
+
+    @{
+    ViewData["Title"] = "Anagrafiche";
+}
+<h1>Anagrafiche</h1>
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Crea Nuovo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cognome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cognome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdAnagrafica">Modifica</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdAnagrafica">Dettagli</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdAnagrafica">Cancella</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

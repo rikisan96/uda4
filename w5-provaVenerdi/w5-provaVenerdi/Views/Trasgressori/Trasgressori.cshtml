@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "SBIRRIpage - Trasgressori";
+}
+
+@model IEnumerable<Trasgressore>
+
+<h1>Pagina dei trasgressori</h1>
+
+<ul>
+    @foreach (var trasgressore in Model)
+    {
+        <li>
+            <strong>Nome:</strong> @trasgressore.Nome <br />
+            <strong>Cognome:</strong> @trasgressore.Cognome <br />
+            <strong>Indirizzo:</strong> @trasgressore.Indirizzo <br />
+            <strong>Città:</strong> @trasgressore.Citta <br />
+            <strong>CAP:</strong> @trasgressore.CAP <br />
+            <strong>Codice Fiscale:</strong> @trasgressore.CodiceFiscale
+        </li>
+        <hr />
+    }
+</ul>

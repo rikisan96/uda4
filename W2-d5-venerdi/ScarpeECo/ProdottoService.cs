@@ -6,6 +6,7 @@ namespace ScarpeCo.Repository
 {
 
     public class ProductRepository : IArticoloService
+                                     
     {
         private static List<Product> _products = new List<Product>
         {

@@ -1,6 +1,7 @@
 ﻿namespace ApplicationLayer;
 
 
+
 public interface IAccountService
 {
     User Register(User Username);
@@ -18,5 +19,9 @@ public interface IAccountService
     List<string> GetAllUserType();
 
 
-    
+}
+
+public class User
+{
+
 }

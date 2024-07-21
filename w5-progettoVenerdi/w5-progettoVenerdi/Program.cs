@@ -1,7 +1,17 @@
+using w5_progettoVenerdi.Services;
+using w5_progettoVenerdi.Models;
+using w5_progettoVenerdi.Services.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IAnagraficheService, AnagraficheService>();
+//builder.Services.AddSingleton<TipoViolazioneDAO>();
+//builder.Services.AddSingleton<VerbaleDAO>();
+
+
 
 var app = builder.Build();
 
