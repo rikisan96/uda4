@@ -80,13 +80,5 @@ namespace w5_progettoVenerdi.Controllers
             return View(anagrafica);
         }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult EliminaInformazione(int id)
-        {
-            _anagraficaService.Delete(id);
-            return RedirectToAction(nameof(Index));
-        }
-
     }
 }

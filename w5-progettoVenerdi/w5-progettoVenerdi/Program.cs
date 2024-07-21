@@ -8,8 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IAnagraficheService, AnagraficheService>();
-//builder.Services.AddSingleton<TipoViolazioneDAO>();
-//builder.Services.AddSingleton<VerbaleDAO>();
+//builder.Services.AddSingleton<ITipoViolazioneService , TipoViolazioneService>();
+//builder.Services.AddSingleton<IVerbaleService , VerbaleService>();
 
 
 

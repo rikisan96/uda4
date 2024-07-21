@@ -119,15 +119,12 @@ namespace w5_progettoVenerdi.Services
                 using (SqlConnection conn = new SqlConnection(_connectionString))
                 {
                     conn.Open();
-                    // Prima elimina i record correlati nella tabella VERBALI
                     string deleteVerbaliQuery = "DELETE FROM VERBALI WHERE IdAnagrafica = @IdAnagrafica";
                     using (SqlCommand cmd = new SqlCommand(deleteVerbaliQuery, conn))
                     {
                         cmd.Parameters.AddWithValue("@IdAnagrafica", id);
                         cmd.ExecuteNonQuery();
                     }
-
-                    // Ora elimina il record nella tabella ANAGRAFICHE
                     string deleteAnagraficaQuery = "DELETE FROM ANAGRAFICHE WHERE IdAnagrafica = @IdAnagrafica";
                     using (SqlCommand cmd = new SqlCommand(deleteAnagraficaQuery, conn))
                     {

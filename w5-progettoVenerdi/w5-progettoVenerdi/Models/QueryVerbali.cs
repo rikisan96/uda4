@@ -1,6 +1,6 @@
 ﻿namespace w5_progettoVenerdi.Models
 {
-    public class RisultatoVerbali
+    public class QueryVerbali
     {
             public string Cognome { get; set; }
             public string Nome { get; set; }

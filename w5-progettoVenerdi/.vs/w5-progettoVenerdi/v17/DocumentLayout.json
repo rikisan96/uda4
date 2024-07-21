@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\views\\anagrafiche\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\views\\anagrafiche\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\controllers\\anagrafichecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\controllers\\anagrafichecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\views\\anagrafiche\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\views\\anagrafiche\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\views\\anagrafiche\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\views\\anagrafiche\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\services\\anagraficheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\services\\anagraficheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\services\\interfaces\\ianagraficheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\services\\interfaces\\ianagraficheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\controllers\\anagrafichecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\controllers\\anagrafichecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\w5-progettovenerdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\w5-progettovenerdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\services\\verbaliservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\services\\verbaliservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w5-progettovenerdi\\w5-progettovenerdi\\services\\interfaces\\ianagraficheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D250A01-6D0B-4947-BC19-0DBFC938AF10}|w5-progettoVenerdi\\w5-progettoVenerdi.csproj|solutionrelative:w5-progettovenerdi\\services\\interfaces\\ianagraficheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +45,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 173,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 206,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,81 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AnagraficheService.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\AnagraficheService.cs",
+              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Services\\AnagraficheService.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\AnagraficheService.cs",
+              "RelativeToolTip": "w5-progettoVenerdi\\Services\\AnagraficheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T18:18:06.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "w5-progettoVenerdi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:11:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AnagraficheController.cs",
               "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Controllers\\AnagraficheController.cs",
               "RelativeDocumentMoniker": "w5-progettoVenerdi\\Controllers\\AnagraficheController.cs",
               "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Controllers\\AnagraficheController.cs",
               "RelativeToolTip": "w5-progettoVenerdi\\Controllers\\AnagraficheController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAkAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:04:09.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:04:09.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Program.cs",
               "RelativeDocumentMoniker": "w5-progettoVenerdi\\Program.cs",
               "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Program.cs",
               "RelativeToolTip": "w5-progettoVenerdi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:03:00.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T17:03:00.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAnagraficheService.cs",
-              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
-              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
-              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
-              "RelativeToolTip": "w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T16:40:58.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
-              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
-              "RelativeToolTip": "w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T16:33:11.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "w5-progettoVenerdi\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "w5-progettoVenerdi\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T16:13:27.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "w5-progettoVenerdi",
-              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\w5-progettoVenerdi.csproj",
-              "RelativeDocumentMoniker": "w5-progettoVenerdi\\w5-progettoVenerdi.csproj",
-              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\w5-progettoVenerdi.csproj",
-              "RelativeToolTip": "w5-progettoVenerdi\\w5-progettoVenerdi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-21T15:43:22.799Z",
+              "DocumentIndex": 8,
+              "Title": "IAnagraficheService.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
+              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
+              "RelativeToolTip": "w5-progettoVenerdi\\Services\\Interfaces\\IAnagraficheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:40:58.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerbaliService.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\VerbaliService.cs",
+              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Services\\VerbaliService.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Services\\VerbaliService.cs",
+              "RelativeToolTip": "w5-progettoVenerdi\\Services\\VerbaliService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:59:04.731Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Anagrafiche\\Details.cshtml",
+              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Views\\Anagrafiche\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Anagrafiche\\Details.cshtml",
+              "RelativeToolTip": "w5-progettoVenerdi\\Views\\Anagrafiche\\Details.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:55:59.087Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
+              "RelativeDocumentMoniker": "w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w5-progettoVenerdi\\w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
+              "RelativeToolTip": "w5-progettoVenerdi\\Views\\Anagrafiche\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T16:33:11.876Z"
             }
           ]
         }
