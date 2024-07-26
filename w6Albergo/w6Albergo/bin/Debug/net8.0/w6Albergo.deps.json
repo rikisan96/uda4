@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "w6Albergo/1.0.0": {
+        "runtime": {
+          "w6Albergo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w6Albergo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
