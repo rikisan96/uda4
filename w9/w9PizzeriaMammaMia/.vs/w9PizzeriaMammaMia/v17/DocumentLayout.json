@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w9pizzeriamammamia\\w9pizzeriamammamia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|solutionrelative:w9pizzeriamammamia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w9pizzeriamammamia\\w9pizzeriamammamia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|solutionrelative:w9pizzeriamammamia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w9pizzeriamammamia\\w9pizzeriamammamia\\models\\ingredienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|solutionrelative:w9pizzeriamammamia\\models\\ingredienti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w9pizzeriamammamia\\w9pizzeriamammamia\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|solutionrelative:w9pizzeriamammamia\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|c:\\users\\riscaldino\\desktop\\epicode-uda4\\w9pizzeriamammamia\\w9pizzeriamammamia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B911274-1E26-4BE7-A5B9-BDF68B497E15}|w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj|solutionrelative:w9pizzeriamammamia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\appsettings.json",
+              "RelativeDocumentMoniker": "w9PizzeriaMammaMia\\appsettings.json",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\appsettings.json",
+              "RelativeToolTip": "w9PizzeriaMammaMia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T14:57:43.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "w9PizzeriaMammaMia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "w9PizzeriaMammaMia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:26:06.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "w9PizzeriaMammaMia\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Models\\Prodotto.cs",
+              "RelativeToolTip": "w9PizzeriaMammaMia\\Models\\Prodotto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:48:50.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingredienti.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Models\\Ingredienti.cs",
+              "RelativeDocumentMoniker": "w9PizzeriaMammaMia\\Models\\Ingredienti.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Models\\Ingredienti.cs",
+              "RelativeToolTip": "w9PizzeriaMammaMia\\Models\\Ingredienti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:33:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "w9PizzeriaMammaMia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "w9PizzeriaMammaMia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T14:16:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
