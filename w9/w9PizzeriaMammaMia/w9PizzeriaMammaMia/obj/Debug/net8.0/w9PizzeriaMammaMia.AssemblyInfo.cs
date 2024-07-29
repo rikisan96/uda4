@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("w9PizzeriaMammaMia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6665206cac5f63148bbfb242a0412e93eae842e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+149bf19617760ac36629d229e80948ff2cc1b3b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("w9PizzeriaMammaMia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("w9PizzeriaMammaMia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

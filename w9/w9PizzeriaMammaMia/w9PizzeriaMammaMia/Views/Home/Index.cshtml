@@ -1,7 +1,27 @@
-﻿@{
+﻿@model IEnumerable<Product>
+@using w9PizzeriaMammaMia.Models;
+
+@{
     ViewData["Title"] = "Home Page";
 }
-
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Benvenuti a ppizzaTI</h1>
+    <p>MARIO, MAMMA MIA, PIZZERIA ! LEZZA GO</p>
 </div>
+
+<div class="text-start">
+    <h3 class="display-4">Ingredienti nel Database</h3>
+</div>
+<a asp-action="Create" class="btn btn-info">Nuovo Ingrediente</a>
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>
+            @product.Id - @product.Name
+            <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Modifica</a>
+            <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Elimina</a>
+        </li>
+
+    }
+
+</ul>

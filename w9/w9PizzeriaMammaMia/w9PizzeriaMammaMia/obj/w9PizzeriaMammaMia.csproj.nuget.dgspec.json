@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj": {}
+    "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj": {
+    "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj",
+        "projectUniqueName": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj",
         "projectName": "w9PizzeriaMammaMia",
-        "projectPath": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj",
+        "projectPath": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia.csproj",
         "packagesPath": "C:\\Users\\Riscaldino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\obj\\",
+        "outputPath": "C:\\Users\\Riscaldino\\Desktop\\Epicode-UDA4\\w9\\w9PizzeriaMammaMia\\w9PizzeriaMammaMia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riscaldino\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             }
           },
           "imports": [

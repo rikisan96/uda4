@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
+using w9PizzeriaMammaMia.Context;
 using w9PizzeriaMammaMia.Models;
 
 namespace w9PizzeriaMammaMia.Controllers
@@ -7,25 +9,24 @@ namespace w9PizzeriaMammaMia.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly DataContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+
+        public HomeController(ILogger<HomeController> logger, DataContext dataContext)
         {
             _logger = logger;
+            _context = dataContext;
         }
 
         public IActionResult Index()
         {
-            return View();
+
+            return View(_context.Products);
         }
 
         public IActionResult Create()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
+            return View(_context.Ingredients);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
