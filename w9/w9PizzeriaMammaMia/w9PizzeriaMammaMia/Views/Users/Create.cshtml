@@ -1,12 +1,12 @@
-﻿@model w9PizzeriaMammaMia.Models.Product
-@using w9PizzeriaMammaMia.Models
+﻿@model w9PizzeriaMammaMia.Models.Utenti
 
 @{
     ViewData["Title"] = "Create";
 }
 
-<h1>Crea nuovo prodotto</h1>
+<h1>Create</h1>
 
+<h4>Utenti</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -18,19 +18,14 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Photo" class="control-label"></label>
-                <input asp-for="Photo" class="form-control" />
-                <span asp-validation-for="Photo" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="DeliveryTimeInMinutes" class="control-label"></label>
-                <input asp-for="DeliveryTimeInMinutes" class="form-control" />
-                <span asp-validation-for="DeliveryTimeInMinutes" class="text-danger"></span>
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

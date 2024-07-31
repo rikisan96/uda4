@@ -26,7 +26,7 @@ namespace w9PizzeriaMammaMia.Controllers
 
         public IActionResult Create()
         {
-            return View(_context.Ingredients);
+            return View(_context.Products);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -7,7 +7,7 @@ namespace w9PizzeriaMammaMia.Context
     public class DataContext : DbContext
     {
         public virtual DbSet<Product> Products { get; set; }
-        public virtual DbSet<Ingredient> Ingredients { get; set; }
+        public virtual DbSet<Ingredienti> Ingredients { get; set; }
         public virtual DbSet<Utenti> Users { get; set; }
         public virtual DbSet<Role> Roles { get; set; }
 

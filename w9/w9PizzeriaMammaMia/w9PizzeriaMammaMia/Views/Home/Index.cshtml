@@ -5,23 +5,43 @@
     ViewData["Title"] = "Home Page";
 }
 <div class="text-center">
-    <h1 class="display-4">Benvenuti a ppizzaTI</h1>
+    <h1 class="display-4"> (a)ppizzaTI</h1>
     <p>MARIO, MAMMA MIA, PIZZERIA ! LEZZA GO</p>
 </div>
 
-<div class="text-start">
-    <h3 class="display-4">Ingredienti nel Database</h3>
+<div class="border border-1">
+    <div class="text-start border border-1 align-items-center justify-content-center">
+        <h3 class="display-4 d-inline">Prodotti nel Database</h3>
+        <span>
+            <div class="btn-group direction align-items-center" role="group" aria-label="Basic example">
+                <button type="button" asp-action="Create" class=" btn btn-outline-success">Nuovo Piatto</button>
+                <button type="button" asp-action="Create" class=" btn btn-outline-warning">BLANK</button>
+            </div>
+        </span>
+    </div>
+    <ul>
+        @foreach (var product in Model)
+        {
+        <div class="container ">
+            <li>
+                <div>
+                    <span class="row">
+                        <ul class="text-nowrap m-3 col-10">
+                            <span class=" justify-content-around">
+                                <i>@product.Name</i>
+                            </span>
+                            <span class="col-2 container align-items-baseline flex-row-reversejustify-content-around m-3">
+                                <a asp-action="Detail" asp-route-id="@product.Id" class="btn btn-primary">Dettagli piatto</a>
+                                <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Modifica</a>
+                                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Elimina</a>
+                            </span>
+                        </ul>
+
+                    </span>
+                </div>
+
+            </li>
+        </div>
+        }
+    </ul>
 </div>
-<a asp-action="Create" class="btn btn-info">Nuovo Ingrediente</a>
-<ul>
-    @foreach (var product in Model)
-    {
-        <li>
-            @product.Id - @product.Name
-            <a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Modifica</a>
-            <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Elimina</a>
-        </li>
-
-    }
-
-</ul>
